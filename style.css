@@ -1,0 +1,9 @@
+
+.photo{
+    background-image: url('images/banner.png');
+}
+
+.seat-select{
+    display: flex;
+    justify-content: space-between;
+}
